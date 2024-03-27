@@ -1,5 +1,5 @@
 
-<h1>Solo es el contenido visual, le quiero añadir funcionalidad con Javascript.🥷❤️ </h1>
+<h1>Solo es el contenido visual, en algun monento le añado funcionalidad con algun lenguaje.🥷❤️ </h1>
 <hr>
  <p> Probé dibujar utilizando CSS y HTML como una manera de explorar habilidades fuera de mi área principal. Aunque no soy un experto en diseño web, 
       encontré que crear formas simples como círculoscon CSS y HTML era una manera divertida de experimentar con estas tecnologías básicas. A veces,
